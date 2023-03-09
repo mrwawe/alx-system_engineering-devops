@@ -6,3 +6,4 @@
 4-listmorefiles Display current directory contents, including hidden files (starting with .). Use the long format.
 5-listfilesdigitonly Display current directory contents.
 6-firstdirectory a script that creates a directory named my_first_directory in the /tmp/ directory.
+7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory.
